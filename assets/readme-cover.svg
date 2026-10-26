@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Humanize-ZH</title>
+  <desc id="desc">中文写作与编辑 Skill。写得自然，也写得准确。</desc>
+  <rect width="1200" height="380" fill="#f4f7f5"/>
+  <rect x="0" y="0" width="12" height="380" fill="#df6554"/>
+  <path d="M0 1H1200M0 379H1200" stroke="#dbe3de"/>
+  <text x="66" y="78" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="700" fill="#278677" letter-spacing="2">HUMANIZE · ZH</text>
+  <text x="64" y="185" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="67" font-weight="700" fill="#192923">写得自然，</text>
+  <text x="64" y="264" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="67" font-weight="700" fill="#192923">也写得准确。</text>
+  <text x="68" y="324" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#52645b">中文写作与编辑 Skill</text>
+  <rect x="763" y="52" width="366" height="276" rx="7" fill="#ffffff" stroke="#d8e2dc" stroke-width="2"/>
+  <rect x="791" y="82" width="88" height="8" rx="4" fill="#df6554"/>
+  <rect x="791" y="113" width="291" height="11" rx="5" fill="#cbd5ce"/>
+  <rect x="791" y="137" width="255" height="11" rx="5" fill="#cbd5ce"/>
+  <rect x="791" y="161" width="270" height="11" rx="5" fill="#cbd5ce"/>
+  <path d="M789 194H1102" stroke="#d8e2dc"/>
+  <rect x="791" y="217" width="287" height="11" rx="5" fill="#278677"/>
+  <rect x="791" y="241" width="244" height="11" rx="5" fill="#278677"/>
+  <rect x="791" y="265" width="262" height="11" rx="5" fill="#278677"/>
+  <rect x="791" y="296" width="65" height="5" rx="2" fill="#df6554"/>
+</svg>

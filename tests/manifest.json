@@ -1,0 +1,23 @@
+{
+  "samples": [
+    {"id": "narrative_ai_01", "genre": "narrative", "kind": "ai", "file": "corpus/narrative/ai_01.md", "fixture": "fixtures/narrative_ai_01.json"},
+    {"id": "narrative_human_01", "genre": "narrative", "kind": "human", "file": "corpus/narrative/human_01.md"},
+    {"id": "commentary_ai_01", "genre": "commentary", "kind": "ai", "file": "corpus/commentary/ai_01.md", "fixture": "fixtures/commentary_ai_01.json"},
+    {"id": "commentary_human_01", "genre": "commentary", "kind": "human", "file": "corpus/commentary/human_01.md"},
+    {"id": "informational_ai_01", "genre": "informational", "kind": "ai", "file": "corpus/informational/ai_01.md", "fixture": "fixtures/informational_ai_01.json"},
+    {"id": "informational_human_01", "genre": "informational", "kind": "human", "file": "corpus/informational/human_01.md"},
+    {"id": "experiential_ai_01", "genre": "experiential", "kind": "ai", "file": "corpus/experiential/ai_01.md", "fixture": "fixtures/experiential_ai_01.json"},
+    {"id": "experiential_human_01", "genre": "experiential", "kind": "human", "file": "corpus/experiential/human_01.md"},
+    {"id": "entertainment_ai_01", "genre": "entertainment", "kind": "ai", "file": "corpus/entertainment/ai_01.md", "fixture": "fixtures/entertainment_ai_01.json"},
+    {"id": "entertainment_human_01", "genre": "entertainment", "kind": "human", "file": "corpus/entertainment/human_01.md"},
+    {"id": "commercial_ai_01", "genre": "commercial", "kind": "ai", "file": "corpus/commercial/ai_01.md", "fixture": "fixtures/commercial_ai_01.json"},
+    {"id": "commercial_human_01", "genre": "commercial", "kind": "human", "file": "corpus/commercial/human_01.md"},
+    {"id": "conversational_ai_01", "genre": "conversational", "kind": "ai", "file": "corpus/conversational/ai_01.md", "fixture": "fixtures/conversational_ai_01.json"},
+    {"id": "conversational_human_01", "genre": "conversational", "kind": "human", "file": "corpus/conversational/human_01.md"},
+    {"id": "edge_mixed_genre_01", "genre": "edge", "kind": "edge", "file": "corpus/edge/mixed_genre_01.md"},
+    {"id": "edge_already_human_01", "genre": "edge", "kind": "edge", "file": "corpus/edge/already_human_01.md"},
+    {"id": "edge_factual_dense_01", "genre": "edge", "kind": "edge", "file": "corpus/edge/factual_dense_01.md"},
+    {"id": "edge_adv_r1_linter_blind", "genre": "edge", "kind": "edge", "file": "corpus/edge/adv_r1_linter_blind.md"},
+    {"id": "edge_adv_r2_fabricated", "genre": "edge", "kind": "edge", "file": "corpus/edge/adv_r2_fabricated.md", "fixture": "fixtures/oss_article.json"}
+  ]
+}
